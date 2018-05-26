@@ -1,0 +1,4 @@
+0. Dimension between 3 - 9
+1. array
+2. void greet(void)
+3. init, won, draw and move
